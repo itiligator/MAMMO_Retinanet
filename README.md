@@ -30,7 +30,7 @@ Follow the installation method of [Keras RetinaNet](https://github.com/fizyr/ker
 
     
 ## Test
-     $ test.ipynb
+     test.ipynb
 
 # Pretrained Weights
 
