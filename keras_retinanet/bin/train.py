@@ -35,7 +35,7 @@ if __name__ == "__main__" and __package__ is None:
 from .. import losses
 from .. import layers
 from ..callbacks import RedirectModel
-from ..preprocessing.pascal_voc import PascalVocGenerator
+#from ..preprocessing.pascal_voc import PascalVocGenerator
 from ..preprocessing.csv_generator import CSVGenerator
 from ..models.resnet import ResNet50RetinaNet
 from ..utils.keras_version import check_keras_version
