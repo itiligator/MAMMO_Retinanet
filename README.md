@@ -1,5 +1,5 @@
 # MAMMO_Retinanet
-
+This is a repository of code for 'Mass detection in mammography using one-stage object detector based on deep convolutional neural network'. We leverage the RetinaNet which is robust region-based deep learning model to improve the performance of mass detection. We made our pre-trained weights available that are trained on both the public datasets and in-house dataset so that other researchers and practitioners in the community can easily build their own high-performance mass detection model by further training our pre-trained models using their own private datasets.
 
 # Reference Code
 
