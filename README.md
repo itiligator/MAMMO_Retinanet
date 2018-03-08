@@ -27,10 +27,7 @@ Follow the installation method of [Keras RetinaNet](https://github.com/fizyr/ker
     
     $ sh train.sh
     
-### When using pre-trained weight
-Set the arg 'weight' to 'INBreast' or 'GURO'.
 
-    $ keras_retinanet/bin/train.py --weight 'DataType' csv <train_list.csv> <ClassLable.csv> <DataType>
     
 ## Test
      $ test.ipynb
@@ -40,3 +37,9 @@ Set the arg 'weight' to 'INBreast' or 'GURO'.
 Pretrained Weights (GURO and INBreast) are availabel at [Download Available Link](https://drive.google.com/open?id=12H5E07s3m3pcDtqDpDmWs0IpWt6CIUrb).
 
 Download at pretrained model at keras_retinanet/pretrainedmodel
+
+
+## When using pre-trained weight
+Set the arg 'weight' to 'INBreast' or 'GURO'.
+
+    $ keras_retinanet/bin/train.py --weight 'DataType' csv <train_list.csv> <ClassLable.csv> <DataType>
