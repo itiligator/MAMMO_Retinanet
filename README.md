@@ -29,3 +29,5 @@ Follow the installation method of [Keras RetinaNet](https://github.com/fizyr/ker
 # Pretrained Weights
 
 Pretrained Weights (GURO and INBreast) are availabel at [Download Available Link](https://drive.google.com/open?id=12H5E07s3m3pcDtqDpDmWs0IpWt6CIUrb).
+
+Download at pretrained model at keras_retinanet/pretrainedmodel
