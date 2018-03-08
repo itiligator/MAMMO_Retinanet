@@ -16,4 +16,4 @@ Pretrained Model
 
 Pretrained Models (GURO and INBreast) are availabel at here.
 
-    syntax: [Download Available Link] (https://drive.google.com/open?id=12H5E07s3m3pcDtqDpDmWs0IpWt6CIUrb)
+    [Download Available Link] (https://drive.google.com/open?id=12H5E07s3m3pcDtqDpDmWs0IpWt6CIUrb)
