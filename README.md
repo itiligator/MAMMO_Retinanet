@@ -16,7 +16,7 @@ This code has been tested on Linux 16.04 64-bit system.
 
 [Keras](https://keras.io/)
 
-[tensorflow](https://www.tensorflow.org/)
+[TensorFlow](https://www.tensorflow.org/)
 
 [INbreast mammography dataset](http://medicalresearch.inescporto.pt/breastresearch/index.php/Get_INbreast_Database) 
 
