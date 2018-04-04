@@ -8,7 +8,7 @@ Several computer aided diagnosis (CAD) systems have been developed for mammograp
 
 ## Requirments
 
-This code has been tested on Linux 16.04 64-bit system.
+This code has been tested on Ubuntu 16.04 64-bit system.
 
 ### Prerequisites
 
