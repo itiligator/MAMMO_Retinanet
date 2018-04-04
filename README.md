@@ -30,15 +30,23 @@ This code has been tested on Linux 16.04 64-bit system.
 
 ## Usage
 ### Train
+
+Use the python code for train
+
     $ keras_retinanet/bin/train.py csv <train_list.csv> <ClassLable.csv> <DataType>
+    
+or use shell scripts code.
+
+    $ sh train.sh   
+<!--
 
     $ keras_retinanet/bin/train.py csv '/media/hwejin/SSD_1/DATA/DATAForPaper_v2/GURO/0_train.csv' '/media/hwejin/SSD_1/DATA/DATAForPaper_v2/Common/class.csv' 'GURO'
-    
-    $ sh train.sh
-    
-
+-->
     
 ### Test
+
+Use the IPython notebook code for test.
+
      test.ipynb
 
 ## Pretrained Weights
