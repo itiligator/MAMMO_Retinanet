@@ -1,4 +1,4 @@
-# Mass detection in mammography using one-stage object detector based on deep convolutional neural network
+# Detection of masses in mammograms using a one-stage object detector based on a deep convolutional neural network
 Hwejin Jung, Bumsoo Kim, Inyeop Lee, Minhwan Yoo, Junhyun Lee, Sooyoun Ham, Okhee Woo, and Jaewoo kang 
 Submitted in [Plos One](http://journals.plos.org/plosone/) (Under Review)
 
