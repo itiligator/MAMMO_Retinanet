@@ -71,4 +71,4 @@ Hwejin Jung(hwejin23@gmail.com)
 
 ## Acknowledgements
 
-Our code is inspired by the [Keras RetinaNet](https://github.com/fizyr/keras-retinanet)
+Our code is inspired by the [Keras RetinaNet](https://github.com/fizyr/keras-retinanet).
